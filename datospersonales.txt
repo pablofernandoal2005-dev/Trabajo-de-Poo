@@ -1,0 +1,3 @@
+nombre : Pablo
+carrera : Desarrollo de Software
+ciudad : Cuenca- Ecuador

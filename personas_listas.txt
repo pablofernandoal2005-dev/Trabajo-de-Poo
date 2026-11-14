@@ -1,0 +1,29 @@
+--- Persona 1 ---
+nombre : ['Pablo', 'Alvarado', 21]
+apellidos : ['Pablo', 'Alvarado', 21]
+edad : ['Pablo', 'Alvarado', 21]
+
+--- Persona 2 ---
+nombre : ['Dome', 'Crespo', 21]
+apellidos : ['Dome', 'Crespo', 21]
+edad : ['Dome', 'Crespo', 21]
+
+--- Persona 3 ---
+nombre : ['Daniela', 'Corte', 21]
+apellidos : ['Daniela', 'Corte', 21]
+edad : ['Daniela', 'Corte', 21]
+
+--- Persona 4 ---
+nombre : ['Steven', 'Ortiz', 21]
+apellidos : ['Steven', 'Ortiz', 21]
+edad : ['Steven', 'Ortiz', 21]
+
+--- Persona 5 ---
+nombre : ['Kevin', 'Chicaiza', 21]
+apellidos : ['Kevin', 'Chicaiza', 21]
+edad : ['Kevin', 'Chicaiza', 21]
+
+--persona 6 --
+Nombre: Karen
+Apellido: Carabajo
+Edad: 21
