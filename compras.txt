@@ -3,5 +3,3 @@ leche
 pan
 huevos
 queso
-Azucar
-Cafe
