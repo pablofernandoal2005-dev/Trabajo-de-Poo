@@ -2,5 +2,5 @@ Hola, estudiantes de POO II
 Este archivo lo creó Python
 Cuenca - Ecuador
  Vivo por el parque iberia
- Soy un estudiante promedio
+ Soy un estudiante
 Línea agregada después

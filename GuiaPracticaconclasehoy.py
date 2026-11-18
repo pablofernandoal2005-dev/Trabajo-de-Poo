@@ -1,3 +1,6 @@
+#Trabajo Grupal de Pooll
+#Diana Tigre, Maria Bravo, Daniela Corte, Steven Ortiz, Pablo Alvarado
+
 from datetime import date
 
 

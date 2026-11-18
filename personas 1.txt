@@ -1,23 +1,15 @@
 nombre : Pablo
 apellidos : Alvarado
 edad : 21
-
 nombre : Dome
 apellidos : Crespo
 edad : 21
-
 nombre : Daniela
 apellidos : Corte
 edad : 21
-
 nombre : Steven
 apellidos : Ortiz
 edad : 21
-
 nombre : Kevin
 apellidos : Chicaiza
 edad : 21
-
-Nombre: Karen
-Apellido: Carabajo
-Edad: 21

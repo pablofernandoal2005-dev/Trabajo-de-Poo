@@ -1,4 +1,6 @@
 #Trabajo Grupal 
+#Trabajo Grupal de Pooll
+#Diana Tigre, Maria Bravo, Daniela Corte, Steven Ortiz, Pablo Alvarado
 
 libro_iniciales = [
 {"Codigo": 1, "Titulo": "Cine años de soledad", "Autor": "Gabriel Garcia Marquez", "Estado": "Disponible" },
