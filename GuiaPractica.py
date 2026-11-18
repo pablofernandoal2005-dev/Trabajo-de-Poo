@@ -37,7 +37,7 @@ def leer_entero(mensaje):
     try:
         return int(input(mensaje))
     except ValueError:
-        print("Error: debe ingresar un numero entero")
+        print("Error, debe ingresar un numero entero")
         return None
 
 def buscar_por_codigo(libros, codigo):
@@ -85,8 +85,8 @@ def guardar_prestamos(prestamos):
 
 def registrar_libros ():
 
-    titulo = input("Ingrese el titulo del libro")
-    autor = input ("Ingrese el autor del libro")
+    titulo = input("Ingrese el titulo del libro: ")
+    autor = input ("Ingrese el autor del libro: ")
 
     if titulo == "" or autor == "":
         print ("No se aceptas campos vacios")
